@@ -1,0 +1,10 @@
+(librepcb_library b558598b-5c79-4f3c-a055-d1096e093965
+ (name "EmeLib")
+ (description "")
+ (keywords "")
+ (author "eme")
+ (version "0.1")
+ (created 2022-06-27T16:48:35Z)
+ (deprecated false)
+ (url "https://github.com/emecoding/EmeLib")
+)
