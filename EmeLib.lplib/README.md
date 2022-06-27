@@ -2,7 +2,8 @@
 
 ## Description
 
-This library is designed by 15 year old and is made to make arduino circuit designs easier with LibrePCB!
+This is a [LibrePCB](https://librepcb.org) library!
+Just edit this file to add a description about it.
 
 ## License
 
